@@ -5,8 +5,6 @@ on:
  push:
   branches:
    - 'main'
-  paths:
-   - 'Classifying_Irises.ipynb'
 
 # Запуск GitHub Actions состоит из одного или нескольких заданий, которые могут выполняться последовательно или параллельно.
 jobs:
