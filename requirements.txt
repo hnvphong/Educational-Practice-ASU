@@ -1,4 +1,4 @@
 seaborn
 matplotlib
-sklearn==1.1.1
+sklearn
 jupyter
